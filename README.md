@@ -18,6 +18,11 @@ A Chrome extension that helps users filter LinkedIn feed content based on topics
   - Duration controls for each topic
   - OpenAI API key configuration for LLM mode
 
+
+## If I Get Time
+   -**Scrape Any Site -> Direct Element Removal**
+   -**Scrape Any Program -> Element Removal (if web-based else good luck)**
+   - Port to golang/desktop service, find a good screen-manip / RW lib
 ## Installation
 
 ### For Users
